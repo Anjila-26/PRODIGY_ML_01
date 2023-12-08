@@ -4,8 +4,8 @@
 This repository contains Python code for predicting house prices using linear regression. The dataset used includes various features such as living area, number of bedrooms, bathrooms, and total rooms.
 
 ## File Structure
-- **Data**: Contains the dataset (`df.csv`) and the test dataset (`test.csv`).
-- **Linear_Regression_Housing_Prices.ipynb**: Jupyter notebook with the main code for data analysis, model training, and predictions.
+- **Data**: Contains the dataset (`train.csv`) and the test dataset (`test.csv`).
+- **PRODIGY_ML_01.ipynb**: Jupyter notebook with the main code for data analysis, model training, and predictions.
 - **README.md**: Short and sweet guide to understand the code.
 
 ## Instructions
@@ -23,5 +23,3 @@ This repository contains Python code for predicting house prices using linear re
 
 ## Results
 The linear regression model shows reasonable predictive performance. Predicted sale prices are transformed back from the logarithmic scale for interpretability.
-
-Feel free to explore and modify the code for your own datasets or analyses!
